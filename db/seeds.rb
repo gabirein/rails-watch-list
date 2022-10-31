@@ -15,3 +15,7 @@ end
 
 puts 'Finished!'
 puts "Made #{Movie.count} movies"
+
+List.create(name: "favourite movies")
+List.create(name: "kak movies")
+List.create(name: "cool movies")
